@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<comment version="3.0">
+  <caption/>
+  <note>Portrait of customer service operator talking on phone in the office.</note>
+  <place/>
+  <categories>
+    <category value="sales"/>
+    <category value="happy"/>
+    <category value="woman"/>
+    <category value="helpdesk"/>
+    <category value="microphone"/>
+    <category value="office"/>
+    <category value="person"/>
+    <category value="phone"/>
+    <category value="portrait"/>
+    <category value="pretty"/>
+    <category value="professional"/>
+    <category value="representative"/>
+    <category value="headphones"/>
+    <category value="secretary"/>
+    <category value="smile"/>
+    <category value="support"/>
+    <category value="talk"/>
+    <category value="technology"/>
+    <category value="telephone"/>
+    <category value="work"/>
+    <category value="young"/>
+    <category value="entrepreneur"/>
+    <category value="headset"/>
+    <category value="attractive"/>
+    <category value="customer"/>
+    <category value="operator"/>
+    <category value="model"/>
+    <category value="service"/>
+    <category value="telemarketing"/>
+    <category value="adult"/>
+    <category value="agent"/>
+    <category value="assistant"/>
+    <category value="handsfree"/>
+    <category value="beautiful"/>
+    <category value="business"/>
+    <category value="businesswoman"/>
+    <category value="call"/>
+    <category value="center"/>
+    <category value="communication"/>
+    <category value="contact"/>
+    <category value="corporate"/>
+    <category value="face"/>
+    <category value="female"/>
+    <category value="friendly"/>
+    <category value="girl"/>
+  </categories>
+</comment>
