@@ -36,6 +36,13 @@ h1, h2, h3, h4, h5, h6 {
 /*--------------------------------------------------------------
 # Back to top button
 --------------------------------------------------------------*/
+.boton-what img{
+  position: fixed;
+  bottom: 3.8rem;
+  right: 15px;
+  z-index: 100;
+  transition: all 0.2s;
+}
 .back-to-top {
   position: fixed;
   visibility: hidden;
